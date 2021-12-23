@@ -33,18 +33,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">       
 <img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=travish-io&theme=ocean_dark" /> 
 </a> 
-
----      
-
-<br><br>
-<h5 align="center">
-
-<!--  <img width="300" height="50" align="center" src="https://media.giphy.com/media/jQWNZu6tNWOTGAu2Pv/giphy.gif" /> -->
-
- </h5>
-
-
-
+ 
 
 <!--
 **travish-io/travish-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
