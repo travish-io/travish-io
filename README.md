@@ -11,7 +11,7 @@
 <!-- [![Linkedin](https://img.shields.io/linkedin) LinkedIn](https://www.linkedin.com/BGMakesItHappen) -->
 
 
-<p align="left">I am a full-stack developer and graduate of the <a href="https://nashvillesoftwareschool.com/" title="NSS">Nashville Software School</a> Cohort #50. I have been building my skills in JavaScript, React, HTML, CSS, Python and Django. I am currently learning Typescript and redux. I live in Tampa FL and enjoy being outdoors and hanging out with my dog, Boomer.</p>
+<p align="left">I am a full-stack developer and graduate of the <a href="https://nashvillesoftwareschool.com/" title="NSS">Nashville Software School</a> Cohort #50. I have been building my skills in JavaScript, React, HTML, CSS, Python and Django. I am currently learning TypeScript and Redux. I live in Tampa FL and enjoy being outdoors and hanging out with my dog, Boomer.</p>
 
 ---
 
