@@ -13,13 +13,14 @@
 ---
 ## 🧰 Toolbox
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png" width="100" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="50" height="50"/> 
-&nbsp;&nbsp;&nbsp;&nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png" width="100" height="50"/>  
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" width="50" height="50"/>
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
 &nbsp;&nbsp;&nbsp;&nbsp; 
